@@ -1,0 +1,5 @@
+setup.py
+epigeosim.egg-info/PKG-INFO
+epigeosim.egg-info/SOURCES.txt
+epigeosim.egg-info/dependency_links.txt
+epigeosim.egg-info/top_level.txt
