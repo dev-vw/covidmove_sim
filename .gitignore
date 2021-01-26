@@ -9,3 +9,6 @@ epigeosim/*.egg-info
 
 # compiled python modules
 epigeosim/__pycache__
+
+# jupyter notebook cehckpoints
+notebooks/.ipynb_checkpoints/
