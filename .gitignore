@@ -1,1 +1,11 @@
+# data
 dat/
+
+# setuptools distribution folder
+epigeosim/dist/
+
+# python egg metadata, regenerated from source files by setuptools
+epigeosim/*.egg-info
+
+# compiled python modules
+epigeosim/__pycache__
